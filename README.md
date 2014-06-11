@@ -1,4 +1,4 @@
-A shoot'em up 2d game made w/ unity 4.3
+A shoot'em up 2d game made with unity 4.3
 =========================================
 
 It's a repository for my first experience creating a 2d game with Unity 4.3. 
