@@ -1,7 +1,7 @@
 A shoot'em up 2d game made w/ unity 4.3
 =========================================
 
-It's a repository for my first experience creating a 2D game with Unity 4.3. 
+It's a repository for my first experience creating a 2d game with Unity 4.3. 
 This project was made to reproduce the game [The Great Paper Adventure](http://dmayance.com/the-great-paper-adventure-of/) 
 and following this [tutorial](http://pixelnest.io/tutorials/2d-game-unity/), with some changes.
 
